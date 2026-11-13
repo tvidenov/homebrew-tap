@@ -1,6 +1,6 @@
 cask "agentdock" do
-  version "1.5.3"
-  sha256 "adb2178e47c55f121fd3361b3e6c4add56764bf154100e238e587e9eb25e3cfd"
+  version "1.5.4"
+  sha256 "3293b673106148727952dadc57c5e923b79e5d3b4b248ed9aa840481dce4d5d6"
 
   url "https://github.com/tvidenov/AgentDock-releases/releases/download/v#{version}/AgentDock-#{version}.dmg"
   name "AgentDock"
